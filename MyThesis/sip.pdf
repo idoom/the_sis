@@ -1,0 +1,419 @@
+%PDF-1.3
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/Contents 4 0 R>>
+endobj
+4 0 obj
+<</Filter /FlateDecode /Length 634>>
+stream
+xœTMo£0½÷WÌ±•².v0†½975	njˆ²•r±š¥‘DÝý÷k «$ýÚ ™yófÞðÊA”ÁëÕ Û;ÄAŽÉ3ˆ¤>"FÄƒ ï#B YÂu<Ó<JS¡ÄD&’«H^,âîÕáÄ%ˆ¸ð×)«žÿ‘`rAâRÔ÷Àh­9ÂCuØ™ò˜µE‘OPŒ"÷X†8ÛíÓdù¼©
+³Ë.2|ÆÛ§ˆ¹Me
+KS‚’D÷q§0E~ÐÀÙÂ¼àˆq£ÅY˜|ò†Z´œLø}—B³™ð©Ð$-¶fÓ´LólŸuÓ‹Q¯þ4zESPb$lÔHDÓ	w*Ä¶äùMžÛJöÿWŠxÈo…M¹ZÛçvŒ±=­lól¹Yn
+SíM™õ@­,gnÖ=ˆó´¸`<B)C˜6Ð§ÍêY×ÈPJ}·K—fÈeÇy\rH+³¾þ•U·ñºÊ¶oæë²Mb‡Ê¢_O	iÀ×ŽêTh®~p5â
+b'"©îtÄc	÷ö5˜ðëú÷œÃPÂ—v9—LŒ!Ö4z`óÅ0ˆ„fŠ-mø8ú	î4ÄüAah-ãÏ.ÚP»°Ó$Ö¶•ÉkïWæå`ÊïçÃÏ
+Èy¸u„o«,¯WE¿Ë”¸\üÎÆwv»–Ão{^\ÃGw7_ô FÝ‰ï ÜÎg2s]«V{d­’0­ymCÐ"Ž$Œøè´ß˜D<õ[Qø0BáLÏb‹]\GY	ø7q_La—Q•Á6­véþP‹[³4°3ö²…¶Á±Ð!?µõ:pp­
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+/MediaBox [0 0 612.00 1008.00]
+>>
+endobj
+5 0 obj
+<</Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+6 0 obj
+<</Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+7 0 obj
+<<
+/Producer (FPDF 1.7)
+/CreationDate (D:20130920185022)
+>>
+endobj
+8 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+>>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000791 00000 n 
+0000001074 00000 n 
+0000000009 00000 n 
+0000000087 00000 n 
+0000000879 00000 n 
+0000000976 00000 n 
+0000001188 00000 n 
+0000001263 00000 n 
+trailer
+<<
+/Size 9
+/Root 8 0 R
+/Info 7 0 R
+>>
+startxref
+1312
+%%EOF
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="google-site-verification" content="49Gb-7OJT2HIdkGao45ApA_Qo6h32fqPydWTnVI1I9A" />
+    <meta name="keywords" content="AMIKOM, Manajemen, Informatika, Komputer, Multimedia, E-learning, Teknologi, Informasi, Enterprenuer," />
+    <meta name="description" content="Sekolah Tinggi Manajemen Informatika dan Komputer (STMIK) AMIKOM Yogyakarta - Tempat Kuliah Orang Berdasi - Unggul dalam Trend Teknologi Informasi" />
+    <head>
+        <title>Bimbingan Amikom | STMIK Amikom</title>
+    <link rel="stylesheet" href="http://bimbingan.amikom.ac.id/mvc/style/style.css" type="text/css" />
+	<link rel="stylesheet" href="http://bimbingan.amikom.ac.id/mvc/style/additional.css" type="text/css" />
+    <link rel="shortcut icon" href="http://bimbingan.amikom.ac.id/mvc/style/img/amikom.ico"/>
+    <link rel="stylesheet" href="http://bimbingan.amikom.ac.id/mvc/style/overlay-basic.css" type="text/css" />
+
+    <script type="text/javascript" src="http://bimbingan.amikom.ac.id/mvc/res/tiny_mce/tiny_mce.js"></script>
+    <script type="text/javascript" src="http://bimbingan.amikom.ac.id/mvc/res/editor.js"></script>
+    <script type="text/javascript" src="http://bimbingan.amikom.ac.id/mvc/res/jquery.js"></script>
+    <script type="text/javascript" src="http://bimbingan.amikom.ac.id/mvc/res/jquery.tools.min.js"></script>
+	<style>
+		
+		.dataTables_filter {float: right !important;margin: 5px 0 !important; }
+		.dataTables_length {float: left !important; margin: 5px 0 !important;}
+		.announcement{
+			position:fixed;
+			background:#000;
+			color:#FFF;
+			top: 0;
+			left: 0;
+			width: 100%;
+			text-align: center;
+			z-index: 1;
+		}
+		.announcement p{
+			font-size: 18px;
+			font-weight: bold;
+		}
+	</style>	
+    </head>
+    
+    <body>    	
+        <div id="outer">
+            <div id="header">
+                <a href="http://amikom.ac.id/" target="_blank"><div id="logo_stmik_amikom"></div></a>
+                <div id="menu_top">
+                    <a href="http://english.amikom.ac.id" target="_blank">Amikom.ac.id</a> | <a href="http://mobile.amikom.ac.id" target="_blank">Amikom Mobile</a> | <a href="http://amikom.ac.id/maps" target="_blank">Site Map</a> | <a href="http://answers.amikom.ac.id" target="_blank">FAQ</a>
+                </div>
+<div style="clear:both"></div>
+  <div id="row_a"><div id="a1"><div id="a9">
+   <div id="a4"><div id="a3">
+    <div id="a_s"><div id="a6"><div id="a8"><div id="scari">
+    <form action="http://bimbingan.amikom.ac.id/index.php/search" method="post">      <div id="s2"><label id="s1"><input type="text" name="keyword" id="s2_input"/></label></div>
+      <div id="s3"></div>
+      <div id="s4"><label id="s5"><input type="submit" name="submit" value="Cari" id="s4_input" /></label></div>
+     </form>
+    </div></div></div></div>
+    <div id="menu_main">
+	BIMBINGAN AMIKOM&nbsp;
+    </div>
+   </div></div>
+  </div></div></div>
+  <div style="clear:both"></div>
+                <div id="row_b">
+                    <div id="b_kiri">
+                        <div id="b1">
+                            <div id="bflash" style="margin: 0pt; padding: 0pt 0pt 0pt 8px; z-index: 0; height: 119px;">
+                                <div style="background: transparent url(http://www.amikom.ac.id/template/amikom2/images/header_page.jpg) no-repeat scroll 0% 0%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; height: 119px; outline-color: rgb(255, 0, 0); outline-width: 1px;">
+								</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="b_kanan"><div id="b4">
+                            <div id="motto">
+                            </div>
+							 <div id="student">
+						     <div class="title">LOGIN AREA</div>
+							     <form name="flogin" id="flogin" method="post" action="http://bimbingan.amikom.ac.id/index.php/login" onsubmit="msg='';if(this.usr.value==''){msg+='username'}if(this.pwd.value==''){if(msg!=''){msg+=' dan '}msg+='password'}if(msg!=''){alert(msg+' belum diisi');return false}">
+    <div align='center'><img src='http://www.amikom.ac.id/public/fotomhs/2008/08.12.2769.jpg' style='border: 2px outset rgb(119, 119, 119);' width=50 height=50><br><b><a href="http://bimbingan.amikom.ac.id/index.php/logout">LOGOUT</a></b></div></form>
+						     <div class="clear"></div>
+						    </div>
+                        </div>
+                        <div>
+                    </div></div>
+                </div>
+                <div style="clear:both"></div>
+                <div id="row_c"><div id="c1"><div id="c3">
+                            <div id="menu_domain">
+                                <a target="_blank" href="http://pmb.amikom.ac.id">PMB</a>
+                                <a target="_blank" href="http://dosen.amikom.ac.id">Dosen</a>
+                                <a target="_blank" href="http://elearning.amikom.ac.id">E-Learning</a>
+                                <a target="_blank" href="http://streaming.amikom.ac.id">Streaming</a>
+                                <a target="_blank" href="http://blog.amikom.ac.id">Blog</a>
+                                <a target="_blank" href="http://diglib.amikom.ac.id">DigLib</a>
+                                <a target="_blank" href="http://forum.amikom.ac.id">Forum</a>
+                                <a target="_blank" href="http://p3m.amikom.ac.id">P3M</a>
+                                <a target="_blank" href="http://mitra.amikom.ac.id">Mitra</a>
+                                <a target="_blank" href="http://krs.amikom.ac.id">KRS</a>
+                            </div>
+                </div></div></div>
+                <div style="clear:both"></div>
+            </div>
+            <div style="clear:both"></div>
+			<noscript>
+										<br />
+											<div style="border: 1px solid red; background: #FFF8C6; border-bottom:none"><strong><center>WARNING</center></strong></div>
+											<div style="border: 1px solid red; background: #FFF8C6; color:red">
+												<center>
+													<p><br><br>
+														Javascript tidak aktifkan, tolong aktifkan javascript browser.<br><br>
+													</p>
+												</center>
+											</div><br><br>
+											<style>#dbody{display:none !important;}</style>
+										</noscript>	
+            <div id="dbody">
+                <div id="d2"><div id="d4"><div id="d5"><div id="d7">
+			<div id="d1"><div id="d3"><div id="d6"><div id="d8">
+							<div id="dcontent">
+								<div id="kiri">       
+									<div class="clear10"></div>
+									<div class="nv2"><div class="nv1"><div class="nv3">
+												<div class="nvhead">MENU</div>
+									</div></div></div>
+									<div class="content info">
+										<script type='text/javascript'>
+$(document).ready(function()
+{
+    $("#firstpane p.menu_head").click(function()
+    {
+        $(this).next("div.menu_body").slideToggle(300).siblings("div.menu_body").slideUp("slow");
+    });
+});
+</script>
+<style>
+	.menu_head{text-transform: uppercase;}
+	.menu_body{margin-left: 10px; } 
+	.menu_body a:hover{text-decoration: none;}
+	.menu_body a{text-transform: capitalize !important; border-bottom: 1px dotted #d8d8d8; padding-bottom: 5px;}
+</style>
+<hr><div style='font-weight:bold;' >08.12.2769 | IQDAM QODRI AMRILLAH</div><hr><a href="http://bimbingan.amikom.ac.id/index.php/pengecekan_judul_tesis" class=judul>PENGECEKAN JUDUL TA/SKRIPSI</a><a href="http://bimbingan.amikom.ac.id/index.php/surat_ijin_penelitian/pengajuan" class=judul>PENGAJUAN SURAT PENGANTAR IJIN PENELITIAN</a><a href="http://bimbingan.amikom.ac.id/index.php/pendaftaran/pendaftaran_ta" class=judul>PENDAFTARAN JUDUL TA/SKRIPSI</a><a href="http://bimbingan.amikom.ac.id/index.php/mhs" class=judul>PROFIL SKRIPSI/TA</a><a href="http://bimbingan.amikom.ac.id/index.php/bimbinganMahasiswa" class=judul>HISTORY BIMBINGAN</a><a href="http://bimbingan.amikom.ac.id/index.php/lihatbab" class=judul>LIHAT FILE SKRIPSI</a><a href="http://bimbingan.amikom.ac.id/index.php/bab" class=judul>UPLOAD FILE</a><a href="http://bimbingan.amikom.ac.id/index.php/pendaftaran/pendaftaran_ujian" class=judul>PENDAFTARAN UJIAN PENDADARAN TA/SKRIPSI</a><br><a href="http://bimbingan.amikom.ac.id/index.php/logout" class=judul>LOGOUT</a>									</div>
+									<div class="bgf1"><div class="bgf2"><div class="bgf3"></div></div></div>
+									
+									<!-- notifikasi bab -->
+																		
+									<!-- notifikasi status bab-->
+									 
+									<div class="clear10"></div>
+									<div class="nv2"><div class="nv1"><div class="nv3">
+												<div class="nvhead">NOTIFIKASI TOPIK BIMBINGAN</div>
+									</div></div></div>
+									<div class="content info">
+										<style>
+	a.c{
+		padding:0;
+		margin:0;
+	}
+</style>
+Tidak ada topik bimbingan terbaru									</div>
+									<div class="bgf1"><div class="bgf2"><div class="bgf3"></div></div></div>
+																		
+									<!-- notifikasi komentar-->
+									 
+									<div class="clear10"></div>
+									<div class="nv2"><div class="nv1"><div class="nv3">
+												<div class="nvhead">NOTIFIKASI KOMENTAR BIMBINGAN</div>
+									</div></div></div>
+									<div class="content info">
+										Tidak ada komentar terbaru dari dosen									</div>
+									<div class="bgf1"><div class="bgf2"><div class="bgf3"></div></div></div>
+																											
+									<div class="clear10"></div>
+									<div class="nv2"><div class="nv1"><div class="nv3">
+												<div class="nvhead"></div>
+									</div></div></div>
+									<div class="content">
+										<style>.supbyimg img{max-width:105px;}
+										.banner{text-decoration:none,background:none;}
+										</style>
+										<table class="supbyimg">
+											<tr>
+												<td><a href="http://www.rbtvyogyakarta.com" target="_blank" class="banner"><img src="http://amikom.ac.id/template/amikom2/images/RB-TV.jpg" border="0"/></a></td>
+												<td><a href="http://www.te.net.id" target="_blank"><img src="http://amikom.ac.id/template/amikom2/images/TE.jpg" border="0"/></a></td>
+											</tr>
+											<tr>
+												<td><a href="http://www.msvpictures.com" target="_blank"><img src="http://amikom.ac.id/template/amikom2/images/MSV.jpg" border="0" /></a></td>
+												<td><a href="http://www.mqradio.com" target="_blank"><img src="http://amikom.ac.id/template/amikom2/images/MQ-FM.jpg" border="0"/></a></td>
+											</tr>
+											<tr>
+												<td><a href="#" target="_blank"><img src="http://amikom.ac.id/template/amikom2/images/TE-CS.jpg" border="0"/></a></td>
+												<td><a href="#" target="_blank"><img src="http://amikom.ac.id/template/amikom2/images/GIT.jpg" border="0"/></a></td>
+											</tr>
+											<tr>
+												<td colspan="2" align="center"><a href="#" target="_blank"><img src="http://amikom.ac.id/template/amikom2/images/AMIKOM-NET.jpg" border="0"/></a></td>
+											</tr>
+										</table>
+									</div>
+									<div class="bgf1"><div class="bgf2"><div class="bgf3"></div></div></div>
+									<!--/info kampus-->
+								</div>																		
+								
+								<div id="tengah">
+									<!---- BERITA ---->
+									<div id="cth2"><div id="cth1"><div id="cth3">
+<!-- 											<div id="cthead">BIMBINGAN AMIKOM | STMIK AMIKOM YOGYAKARTA</div> -->
+												<div id="cthead">BIMBINGAN AMIKOM | STMIK AMIKOM YOGYAKARTA</div>
+									</div></div></div>
+									<div style="clear:both"></div>									
+									
+									<div class="content">																	
+										<!--<div class='title_content'>SURAT IJIN PENELITIAN</div>-->
+										<style>
+	.error p{color: red; font-size: 11px; margin: 0; padding: 0;} .diterima, .ditolak, .belum{padding: 3px 5px; margin: 0 10px 0 0;}
+	.diterima{ color: green;}
+	.ditolak{color: red;}
+	.belum{color: orange;}
+	.link-button{border: none !important; background: transparent !important; border-bottom: 1px dotted #555 !important; color:#333 !important; padding: 0 !important; margin: 3px auto !important; cursor: pointer;}	
+	.link-button:hover{color:#000 !important;}
+</style>
+	
+	<style>table tr td{vertical-align:middle !important;}</style>
+	<table width='100%' border='0.5' cellpadding='1' id='m'>
+		<tbody>
+			<tr class='x' align='center'>
+				<td><strong>PENGAJUAN SURAT IJIN PENELITIAN</strong></td>
+			</tr>
+		</tbody>
+	</table>
+	
+	<br />
+	
+	<table width='100%' border='0.5' cellpadding='1' id='m'>
+		<thead>
+			<tr>
+				<th>No</th>			
+				<th>ANGGOTA</th>	
+				<th>LOKASI PENELITIAN</th>								
+				<th>STATUS</th>
+				<th>AKSI</th>
+				<!--<th>BALASAN PERUSAHAAN</th>-->
+			</tr>
+		</thead>
+		
+		<tbody>
+			
+									<tr>
+				<td>1</td>
+				
+				<td>
+																		08.12.2769 - IQDAM QODRI AMRILLAH															</td>
+				
+				<td>SMP NEGERI 1 NGEMPLAK</td>
+				<td>
+					Disetujui Jurusan<br />
+									</td>
+				<td align="center">
+					<a href="http://bimbingan.amikom.ac.id/index.php/surat_ijin_penelitian/detail/1296">Detail</a>																
+						<form method="post">
+							<input type="hidden" name="cetak_id_sip" value="1296">
+							<input type="submit" value="Cetak" name="submit_cetak" class="link-button" /> 
+						</form>
+						
+									</td>
+				<!--<td align="center">					
+										<form method="post">
+						<input type="hidden" name="id_detail_sip" value="1296" />
+						<label for="balasan_perusahaan"><input type="radio" value="1" name="balasan_perusahaan">Diterima </label>
+						<label for="balasan_perusahaan"><input type="radio" value="0" name="balasan_perusahaan">Ditolak </label><br />
+						<input type="submit" name="submit_update" value="Simpan" />
+					</form>					
+									</td>-->
+			</tr>
+						
+						
+		</tbody>
+		
+	</table>	
+	
+<p>
+			<b>Keterangan</b>
+			<ol>
+				<li>Jika sudah disetujui jurusan.Cetak bukti surat ijin penelitian, serahkan ke bagian Jurusan untuk ditukar dengan Surat Ijin Penelitian Resmi <span style="font-weight: bold; color: red">MINIMAL 1x24JAM PADA SAAT JAM KERJA</span></li>
+				<li>Jika tidak disetujui jurusan, silahkan Anda mengulang mengajukan Surat Ijin Penelitian.</li>
+				<li>Jika Surat Ijin Penelitian Anda ditolak oleh perusahaan, Silakan menghubungi jurusan.</li> 
+			</ol>
+		</p>
+
+<script>
+	$(function(){
+		$("#jml_angt").change(function(){
+			var _jml = $(this).val();
+			var inner_html = '<tr class="new_anggota">';
+			inner_html += '<th align="left" style="width: 150px;">NPM</th>';
+			inner_html += '<td width="200"><input type="text" name="npm[]" class="npm" /></td>';
+			inner_html += '<th align="left" style="width: 80px;">Nama</th>';
+			inner_html += '<td><input type="text" name="nama[]" class="nama" readonly="readonly" /></td>';
+			inner_html += '<td><a class="hapus" href="javascript:void(0);">Hapus</a></td>';
+			inner_html += '</tr>';
+			$("#new_anggota_container").html("");
+			for (i = 1; i < _jml; i++) {
+				$("#new_anggota_container").append(inner_html);		
+			}		
+		});
+		$('.hapus').live("click",function(){
+			$(this).closest("tr").remove();
+			return false;			
+		});
+		$(".npm").live('change', function(e){
+			var _val = $(this).val();			
+			var _parent = $(this).closest("tr");
+			var _url="http://bimbingan.amikom.ac.id/index.php/getajax/get_nama_mhs" + "/" + _val;
+			 $.ajax ({
+				url: _url ,				                        
+                success: function(data1){
+				   _parent.find(".nama").val(data1);				   
+				}
+			}); 
+		});		    
+	});
+</script>									</div>
+									<div style="clear:both"></div>
+									<div class="bgf1"><div class="bgf2"><div class="bgf3"></div></div></div>
+									<div class="clear10"></div>
+								</div>
+								<div class="clear10"></div>
+							</div>
+			</div></div></div></div>
+                </div></div></div></div>
+            </div>
+            
+            <div style="clear:both"></div>
+            <div id="footer">
+                <div id="copyright">Copyright &copy; 2010 STMIK AMIKOM Yogyakarta</div>
+                <div id="update">Last Update: 23 Juli 2010</div>
+                <div style="clear:both"></div>
+            </div>
+            
+        </div>
+    </body>
+</html>
